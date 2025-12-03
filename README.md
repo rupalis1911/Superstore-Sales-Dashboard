@@ -1,11 +1,12 @@
 SuperStore Sales Dashboard – Power BI
-📌 Project Overview
+
+Project Overview
 
 This project presents an end-to-end Sales Analytics Dashboard built using Power BI on the popular SuperStore dataset. The dashboard provides a comprehensive view of sales, profit, segment performance, product categories, and region-based trends across the United States.
 
 The goal of this project was to analyze sales and profit patterns, identify high-performing categories, and uncover opportunities for business improvement.
 
-🛠 Tools & Techniques Used
+Tools & Techniques Used
 
 Power BI
 
@@ -17,7 +18,7 @@ Interactive Visualizations (donut charts, bar charts, line charts, map visuals)
 
 Slicers for region-level analysis (Central, East, South, West)
 
-📂 Dashboard Features
+Dashboard Features
 
 The dashboard includes the following visuals:
 
@@ -108,7 +109,7 @@ Same-Day Delivery
 
 Interactive geographical distribution of sales across U.S. states.
 
-🔍 Key Insights
+Key Insights
 
 Consumer segment contributes nearly half (48%) of total sales, making it the largest revenue generator.
 
@@ -120,7 +121,7 @@ Certain states demonstrate significantly higher sales concentrations, offering o
 
 Profit trends reveal irregular dips in mid-year months, suggesting potential inefficiencies in specific categories or regions.
 
-🧠 What I Learned
+What I Learned
 
 Building end-to-end dashboards in Power BI
 
@@ -134,7 +135,7 @@ Identifying actionable insights from raw data
 
 Improving storytelling using visual analytics
 
-📁 Files Included
+Files Included
 
 SuperStore_Sales_Dashboard.pbix
 
@@ -144,7 +145,7 @@ Dashboard screenshots (PNG/JPG)
 
 README.md
 
-🚀 How to Use
+How to Use
 
 Download the .pbix file from this repository.
 
